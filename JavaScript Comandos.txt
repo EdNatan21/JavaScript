@@ -1,0 +1,8 @@
+// = Comentários
+window = Acessando uma interação com sistema operacional
+window.alert = Exibe uma mensagem de alerta na tela
+window.confirm = Exibe uma mensagem de definição (sim ou não)
+window.prompt = Exibe uma janela solicitando uma entrada de dados
+window.console.log = Exibe uma mensagem no console (inspecionar)
+window.document.getElementById = Permite acessar um elemento do Html através da Identificação
+innerText = Insira um texto
