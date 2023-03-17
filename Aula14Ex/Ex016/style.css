@@ -22,7 +22,7 @@ h1{
 
 section{
     width: 480px;
-    height: 300px;
+    height: auto;
     margin: auto;
 
     background-color: white;
@@ -41,15 +41,32 @@ section{
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.596);
 }
 
+label{
+    padding: 0px 25%;
+}
+
+input{
+   margin: 0px 25%;
+}
+
+input#contar{
+    margin: 5px 40%;
+}
+
 #res{
-    width: 350px;
-    height: 90px;
-    margin: 40px auto ;
+    width: 300px;
+    height: auto;
+    margin: auto;
+    padding: 10px;
 
     border-radius: 10px;
     border: 1px solid black;
-    box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.596);
+    box-shadow: 3px 1px 4px rgba(0, 0, 0, 0.596);
+
+    text-align: center;
+    font-size: 1em;
 }
+
 
 footer{
     text-align: center;
