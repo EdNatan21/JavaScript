@@ -63,3 +63,5 @@ function verificar(){
 
     }
 }
+
+console.log(verificar())
